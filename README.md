@@ -3,7 +3,7 @@
 - 💬 Ask me about Frontend Development
 HTML - CSS - BOOTSTRAP - SASS - TAILWIND - JAVASCRIPT - REACTJS
 - 📫 How to reach me: rabailzaheer@gmail.com
-<img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/c0e5422b-32c0-4929-bd57-57af2ff444c0.png" width="150" height="280">
+<img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/c0e5422b-32c0-4929-bd57-57af2ff444c0.png" width="150" height="150">
 
 
 
