@@ -12,7 +12,7 @@
 
  ###                                                       CURRENTLY MASTERING
 <img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/f7177db4-c8ad-4ba1-aaa5-1541813cab9f.png" width="50" height="50">
-<img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/c110ec6e-a7ef-4894-8ba6-787033f8e80b.png" height="150px">
+<img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/c110ec6e-a7ef-4894-8ba6-787033f8e80b.png" width="50" height="50">
 
 
 ###                                         📫 How to reach me: rabailzaheer@gmail.com
