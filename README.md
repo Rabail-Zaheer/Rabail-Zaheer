@@ -8,6 +8,7 @@
 <img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/d96bdc0e-4db1-496d-9c2d-704e4ce1ce51.png" width="50" height="50">
 <img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/769ed28d-b7be-4501-bce1-7c63ce08ea4d.png" width="50" height="50">
 <img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/1fc686e7-7047-42e7-94fa-cbe832e6800b.png" width="50" height="50">
+<img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/a540d880-aab9-43b0-b87a-a1f6b79e5e5f.png" width="50" height="50">
 <img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/1e1f1691-741a-4651-8aa0-85457362a5b7.png" width="50" height="50">
 
  ###                                                       CURRENTLY MASTERING
