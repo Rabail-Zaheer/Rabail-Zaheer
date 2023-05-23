@@ -19,6 +19,7 @@
 
 ###
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Rabail-Zaheer)](https://git.io/streak-stats)
+[![Rabail's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rabail-Zaheer)]
 
 
 
