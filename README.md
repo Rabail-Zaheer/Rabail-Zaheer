@@ -25,7 +25,7 @@
 ###
 
 
-![Visitor Count](https://profile-counter.glitch.me/Rabail-Zaheer/count.svg
+![Visitor Count](https://profile-counter.glitch.me/Rabail-Zaheer/count.svg)
 
 
 ###                                         📫 How to reach me: rabailzaheer@gmail.com
