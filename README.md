@@ -24,8 +24,6 @@
 
 ###
 
-![Profile views](https://gpvc.arturio.dev/[Rabail-Zaheer])
-
 
 ###                                         📫 How to reach me: rabailzaheer@gmail.com
 
