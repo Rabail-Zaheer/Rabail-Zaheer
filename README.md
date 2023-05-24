@@ -35,6 +35,11 @@
 ###
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Rabail-Zaheer)
 
+![Rabail's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rabail-Zaheer)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabail-Zaheer&layout=compact)
+
 <!--
 // ![Rabail's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rabail-Zaheer)
 
