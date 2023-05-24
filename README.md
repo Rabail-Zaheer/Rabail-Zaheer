@@ -10,6 +10,12 @@
 <img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/1fc686e7-7047-42e7-94fa-cbe832e6800b.png" width="50" height="50">
 <img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/a540d880-aab9-43b0-b87a-a1f6b79e5e5f.png" width="50" height="50">
 <img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/1e1f1691-741a-4651-8aa0-85457362a5b7.png" width="50" height="50">
+<img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/2a5ac77a-e432-4c08-9ae8-82dbdde98c8b.png" width="50" height="50">
+<img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/e7333e43-4055-42da-87f1-82480bd04f22.png" width="50" height="50">
+<img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/be29540f-c460-418f-a864-2d44ba3ea7dd.png" width="50" height="50">
+<img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/eaa9140e-2dce-40cb-a4a1-d686bdd8bb69.png" width="50" height="50">
+<img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/5831ec3a-b548-4ac0-aff1-ef8bb4650dbb.png" width="50" height="50">
+
 
  ###                                                       CURRENTLY MASTERING
 <img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/f7177db4-c8ad-4ba1-aaa5-1541813cab9f.png" width="50" height="50">
