@@ -27,6 +27,8 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Rabail-Zaheer/count.svg)
 
+![Profile views](https://gpvc.arturio.dev/Rabail-Zaheer)
+
 
 ###                                         📫 How to reach me: rabailzaheer@gmail.com
 
