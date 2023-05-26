@@ -20,11 +20,11 @@
 
 <h3> 🔥 Discover my latest blog posts on web development: </h3>
 
-<ol> <li> [My tenth-week learning — JavaScript: Lessons from a Beginner Frontend Developer](https://medium.com/@rabailzaheer/my-tenth-week-learning-javascript-lessons-from-a-beginner-frontend-developer-cf48fca9b9f8) </li>
+1. [My tenth-week learning — JavaScript: Lessons from a Beginner Frontend Developer](https://medium.com/@rabailzaheer/my-tenth-week-learning-javascript-lessons-from-a-beginner-frontend-developer-cf48fca9b9f8)
 
-<li> [My Ninth Week Learning — JavaScript: Lessons from a Beginner Frontend Developer](https://medium.com/@rabailzaheer/my-ninth-week-learning-javascript-lessons-from-a-beginner-frontend-developer-233fe925537b) </li>
+2. [My Ninth Week Learning — JavaScript: Lessons from a Beginner Frontend Developer](https://medium.com/@rabailzaheer/my-ninth-week-learning-javascript-lessons-from-a-beginner-frontend-developer-233fe925537b)
 
-<li> [My Eighth Week Learning — Sass: Lessons from a Beginner Frontend Developer](https://medium.com/@rabailzaheer/my-eighth-week-learning-sass-lessons-from-a-beginner-frontend-developer-31aa5492e810) </li> </ol>
+3. [My Eighth Week Learning — Sass: Lessons from a Beginner Frontend Developer](https://medium.com/@rabailzaheer/my-eighth-week-learning-sass-lessons-from-a-beginner-frontend-developer-31aa5492e810)
 
 
 <p> 🌟 As a passionate web developer and an avid writer, I love diving into the exciting world of web development and sharing my insights through captivating blog posts. If you're curious about the latest trends, tips, and tricks in the ever-evolving web development landscape, you've come to the right place! </p>
