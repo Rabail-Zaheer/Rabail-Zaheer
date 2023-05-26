@@ -1,7 +1,7 @@
-###                                           Hi there 👋 I am Rabail Zaheer 
+###                                           <h1 text-align="center"> Hi there 👋 I am Rabail Zaheer </h1>
 <img src="https://user-images.githubusercontent.com/73345859/232242257-549b15c9-15bb-43fc-9e83-c66a70e7b4dd.jpg" width:500px height:350px>
 
-- 💬 Ask me about Frontend Development
+<h2 text-align="center"> 💬 Ask me about Frontend Development </h2>
 <img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/c0e5422b-32c0-4929-bd57-57af2ff444c0.png" width="50" height="50">
 <img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/5363b8b8-a813-4366-a856-d291ddf5b938.png" width="50" height="50">
 <img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/357cfd25-53c2-43c5-acc0-4ba6ec1a9025.png" width="50" height="50">
@@ -17,7 +17,7 @@
 <img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/5831ec3a-b548-4ac0-aff1-ef8bb4650dbb.png" width="50" height="50">
 
 
- ###                                                       CURRENTLY MASTERING
+ ###                                                      <h2 text-align="center"> CURRENTLY MASTERING </h2>
 <img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/f7177db4-c8ad-4ba1-aaa5-1541813cab9f.png" width="50" height="50">
 <img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/c110ec6e-a7ef-4894-8ba6-787033f8e80b.png" width="50" height="50">
 
