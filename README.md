@@ -29,7 +29,7 @@
 
 <p> 🌟 As a passionate web developer and an avid writer, I love diving into the exciting world of web development and sharing my insights through captivating blog posts. If you're curious about the latest trends, tips, and tricks in the ever-evolving web development landscape, you've come to the right place! </p>
 
-<p> 🚀 Check out more articles on web development at my [Medium profile](https://medium.com/@rabailzaheer) </p>
+<p> 🚀 Check out more articles on web development at my </p> [Medium profile](https://medium.com/@rabailzaheer) 
 
  ###                                                      <h2 text-align="center"> CURRENTLY MASTERING </h2>
 <img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/f7177db4-c8ad-4ba1-aaa5-1541813cab9f.png" width="50" height="50">
