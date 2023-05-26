@@ -17,6 +17,20 @@
 <img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/5831ec3a-b548-4ac0-aff1-ef8bb4650dbb.png" width="50" height="50">
 
 
+
+<h3> 🔥 Discover my latest blog posts on web development: </h3>
+
+<ol> <li> <a src="https://medium.com/@rabailzaheer/my-tenth-week-learning-javascript-lessons-from-a-beginner-frontend-developer-cf48fca9b9f8"> My tenth-week learning — JavaScript: Lessons from a Beginner Frontend Developer </a> </li>
+
+<li> <a src="https://medium.com/@rabailzaheer/my-ninth-week-learning-javascript-lessons-from-a-beginner-frontend-developer-233fe925537b"> My Ninth Week Learning — JavaScript: Lessons from a Beginner Frontend Developer </a></li>
+
+<li> <a src="https://medium.com/@rabailzaheer/my-eighth-week-learning-sass-lessons-from-a-beginner-frontend-developer-31aa5492e810">My Eighth Week Learning — Sass: Lessons from a Beginner Frontend Developer. </a> </li> </ol>
+
+
+<p> 🌟 As a passionate web developer and an avid writer, I love diving into the exciting world of web development and sharing my insights through captivating blog posts. If you're curious about the latest trends, tips, and tricks in the ever-evolving web development landscape, you've come to the right place! </p>
+
+<p> 🚀 Check out more articles on web development at my Medium profile. </p>
+
  ###                                                      <h2 text-align="center"> CURRENTLY MASTERING </h2>
 <img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/f7177db4-c8ad-4ba1-aaa5-1541813cab9f.png" width="50" height="50">
 <img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/c110ec6e-a7ef-4894-8ba6-787033f8e80b.png" width="50" height="50">
