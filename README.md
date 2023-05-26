@@ -1,4 +1,4 @@
-###                                           <h1 text-align="center"> Hi there 👋 I am Rabail Zaheer </h1>
+###                                           <h1 text-align:"center"> Hi there 👋 I am Rabail Zaheer </h1>
 <img src="https://user-images.githubusercontent.com/73345859/232242257-549b15c9-15bb-43fc-9e83-c66a70e7b4dd.jpg" width:500px height:350px>
 
 <h2 text-align="center"> 💬 Ask me about Frontend Development </h2>
