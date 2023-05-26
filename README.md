@@ -44,7 +44,7 @@
 ![Profile views](https://gpvc.arturio.dev/Rabail-Zaheer)
 
 
-###                                         📫 How to reach me: rabailzaheer@gmail.com
+###                                         📫 How to reach me: [RabailZaheer](https://www.linkedin.com/in/rabail-z-2813891b2/)
 
 ###
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Rabail-Zaheer)
