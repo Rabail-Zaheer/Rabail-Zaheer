@@ -18,7 +18,7 @@
 
 
 
-<h3> 🔥 Discover my latest blog posts on web development: </h3>
+<h3> 🔥 Discover my latest blog posts on Frontend development: </h3>
 
 1. [My tenth-week learning — JavaScript: Lessons from a Beginner Frontend Developer](https://medium.com/@rabailzaheer/my-tenth-week-learning-javascript-lessons-from-a-beginner-frontend-developer-cf48fca9b9f8)
 
