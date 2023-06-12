@@ -52,7 +52,7 @@
 ![Rabail's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rabail-Zaheer&token=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)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabail-Zaheer&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabail-Zaheer&layout=compact&token=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)
 
 <!--
 // ![Rabail's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rabail-Zaheer)
