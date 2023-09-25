@@ -28,8 +28,8 @@
 🚀 Check out more articles on web development at my [Medium profile](https://medium.com/@rabailzaheer) 
 
  ###                                                      <h2 text-align="center"> CURRENTLY MASTERING </h2>
-<img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/29ffc70a-9224-483b-830e-78fc9cd69644.png" width="100" height="150">
-<img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/90f78d0d-620a-4936-b193-81af7fbfbf40.png" width="100" height="150">
+<img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/29ffc70a-9224-483b-830e-78fc9cd69644.png" width="200" height="150">
+<img src="https://github.com/Rabail-Zaheer/Rabail-Zaheer/assets/73345859/90f78d0d-620a-4936-b193-81af7fbfbf40.png" width="200" height="150">
 
 
 ###
